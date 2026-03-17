@@ -4,7 +4,7 @@
 
 ### IT Student · Cloud Engineer in Progress · Thanjavur, Tamil Nadu
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=6C7FFF&center=true&width=550&lines=3rd+Year+IT+Student+%7C+K.+Ramakrishnan+College+of+Technology;AWS+Solutions+Architect+Associate;Building+toward+Cloud+%2B+AI%2FML+roles;DSA+in+Java+%7C+Python+for+projects;Placement+target%3A+August+2026)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=6C7FFF&center=true&width=550&lines=3rd+Year+IT+Student+%7C+K.+Ramakrishnan+College+of+Technology;President+%7C+IT+Dept+Association;AWS+Solutions+Architect+Associate;Building+toward+Cloud+%2B+AI%2FML+roles;DSA+in+Java+%7C+Python+for+projects;Placement+target%3A+August+2026)
 
 </div>
 
@@ -12,12 +12,13 @@
 
 ### Who I am
 
-I'm a 3rd year Information Technology student from Thanjavur, India. I completed a cloud internship and hold an **AWS Solutions Architect Associate**. My focus is building toward Cloud and DevOps engineering roles — not just learning theory, but building and deploying real projects.
+I'm a 3rd year Information Technology student from Thanjavur, India. President, IT Department Student Association — K. Ramakrishnan College of Technology (from 2nd year). I completed a cloud internship and hold an **AWS Solutions Architect Associate**. My focus is building toward Cloud and DevOps engineering roles — not just learning theory, but building and deploying real projects.
 
 ```
 College   :  K. Ramakrishnan College of Technology, Thanjavur
 Branch    :  Information Technology
 Year      :  3rd Year (Graduating 2027)
+Role      :  President, IT Department Student Association
 Goal      :  Cloud Engineer + AI/ML Integration
 Timeline  :  On-campus Aug 2026 → Off-campus Mar 2027
 ```
@@ -109,6 +110,7 @@ Sunday ritual   :  LeetCode Weekly Contest
 
 ### Connect
 
+![President](https://img.shields.io/badge/President-IT%20Dept%20Association-00E887?style=flat)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nagulan%20M-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nagulan-m-757993323/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-nagulanoffi-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/nagulanoffi/)
 [![Email](https://img.shields.io/badge/Gmail-nagulanoffi%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nagulanoffi@gmail.com)
