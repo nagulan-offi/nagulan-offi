@@ -4,7 +4,7 @@
 
 # Hi, I'm Nagulan 👋
 
-### IT Student · Cloud Engineer · Thanjavur, Tamil Nadu
+### IT Student · Cloud Engineer in Progress · Thanjavur, Tamil Nadu
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=6C7FFF&center=true&width=550&lines=Final+Year+IT+Student+%7C+K.+Ramakrishnan+College+of+Technology;President+%7C+IT+Dept+Association;AWS+Solutions+Architect+Associate;Building+toward+Cloud+%2B+AI%2FML+roles;DSA+in+Java+%7C+Python+for+projects)
 
@@ -28,10 +28,8 @@ Goal      :  Cloud Engineer + AI/ML Integration
 
 ### What I am currently doing
 
-- DSA in Java — Apna College course from Module 19 (Recursion → DP) — 50–100 problems done
-- Building toward 250 LeetCode problems
+- Starting my final year project — an IoT + EV based real-world solution
 - Studying CS fundamentals: DBMS → OS → Networks → OOPs
-- Planning Project #1: Expense Tracker REST API (Python + FastAPI + PostgreSQL + AWS)
 
 ---
 
@@ -106,21 +104,6 @@ Built and shipped three projects during the internship: a Three-Tier AWS Deploym
 
 ---
 [![](https://visitcount.itsvg.in/api?id=nagulan-offi&icon=0&color=0)](https://visitcount.itsvg.in)
-
----
-
-### DSA Progress
-
-```
-Language  :  Java
-Course    :  Apna College DSA — starting Module 19 (Recursion)
-Platform  :  LeetCode
-Target    :  250 problems
-
-Problems done   :  50–100
-Current topic   :  Starting Recursion (Module 19)
-Sunday ritual   :  LeetCode Weekly Contest
-```
 
 ---
 
