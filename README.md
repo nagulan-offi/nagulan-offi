@@ -4,7 +4,7 @@
 
 # Hi, I'm Nagulan 👋
 
-### IT Student · Cloud Engineer in Progress · Thanjavur, Tamil Nadu
+### IT Student · Cloud Engineer · Thanjavur, Tamil Nadu
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1000&color=6C7FFF&center=true&width=550&lines=Final+Year+IT+Student+%7C+K.+Ramakrishnan+College+of+Technology;President+%7C+IT+Dept+Association;AWS+Solutions+Architect+Associate;Building+toward+Cloud+%2B+AI%2FML+roles;DSA+in+Java+%7C+Python+for+projects)
 
